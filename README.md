@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://gprm.itsvg.in/placeholder-image-src" alt="Professional banner with tech illustrations" width="800" style="border-radius: 12px;"/>
+  <img src="https://github.com/TANMAY2006-UX/TANMAY2006-UX/blob/main/images/Profile%20image.png" width="800" style="border-radius: 12px;"/>
 </div>
 
 <h1 align="center">👋 Hey, I'm <span style="color:#4CAF50;">Tanmay Tajane</span></h1>
